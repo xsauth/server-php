@@ -1,0 +1,15 @@
+{
+  "name": "xsauth/server-php",
+  "description": "Cross-Site Authentication",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "authors": [
+    {
+      "name": "Christian Ezeani",
+      "homepage": "https://github.com/christianezeani"
+    }
+  ],
+}
